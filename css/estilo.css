@@ -1,0 +1,32 @@
+#roleta{
+    transform: rotate(22deg);
+    transition-duration: 5s; 
+    border-radius: 50%;
+}
+
+.background{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    width: 80%;	
+    text-align: center;	
+}
+.pino
+{
+    margin-top: 50px;   
+}
+
+#pino{
+    width: 30px;
+}
+
+.roleta{
+    top: -30px;
+}
+
+#roleta{    
+    height: 300px;
+}
